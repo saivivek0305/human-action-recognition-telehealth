@@ -1,0 +1,16 @@
+video_path,label
+examples/videos/synthetic/synthetic_1.mp4,synthetic
+examples/videos/synthetic/synthetic_2.mp4,synthetic
+examples/videos/synthetic/synthetic_3.mp4,synthetic
+examples/videos/synthetic/synthetic_4.mp4,synthetic
+examples/videos/synthetic/synthetic_5.mp4,synthetic
+examples/videos/stick_walk/stick_walk_1.mp4,stick_walk
+examples/videos/stick_walk/stick_walk_2.mp4,stick_walk
+examples/videos/stick_walk/stick_walk_3.mp4,stick_walk
+examples/videos/stick_walk/stick_walk_4.mp4,stick_walk
+examples/videos/stick_walk/stick_walk_5.mp4,stick_walk
+examples/videos/silhouette_exercise/silhouette_exercise_1.mp4,silhouette_exercise
+examples/videos/silhouette_exercise/silhouette_exercise_2.mp4,silhouette_exercise
+examples/videos/silhouette_exercise/silhouette_exercise_3.mp4,silhouette_exercise
+examples/videos/silhouette_exercise/silhouette_exercise_4.mp4,silhouette_exercise
+examples/videos/silhouette_exercise/silhouette_exercise_5.mp4,silhouette_exercise
